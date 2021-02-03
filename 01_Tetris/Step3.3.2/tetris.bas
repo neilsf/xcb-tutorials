@@ -215,7 +215,7 @@
   ENDPROC
   
   REM -- For testing purposes only
-  REM -- TODO remove the above lines
+  REM -- TODO remove the bellow lines
   CALL clear_playfield
   shape_no! = 2
   piece_x! = 7
